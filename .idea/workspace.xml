@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1bd4a33-3e29-49a6-8e1e-ed733226ae83" name="Default Changelist" comment="第一次提交">
-      <change beforePath="$PROJECT_DIR$/git-test.md" beforeDir="false" afterPath="$PROJECT_DIR$/git-test.md" afterDir="false" />
-    </list>
+    <list default="true" id="f1bd4a33-3e29-49a6-8e1e-ed733226ae83" name="Default Changelist" comment="第三次提交" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620213062201</updated>
-      <workItem from="1620213064155" duration="848000" />
+      <workItem from="1620213064155" duration="1352000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1620213137289</created>
@@ -60,7 +58,28 @@
       <option name="project" value="LOCAL" />
       <updated>1620213137289</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第二次提交">
+      <created>1620229200912</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620229200912</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第三次提交">
+      <created>1620229248964</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620229248964</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第三次提交">
+      <created>1620229354582</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620229354582</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,16 +98,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+    <MESSAGE value="第二次提交" />
+    <MESSAGE value="第三次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三次提交" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="233" y="60" key="Vcs.Push.Dialog.v2" timestamp="1620213142403">
+    <state x="233" y="60" key="Vcs.Push.Dialog.v2" timestamp="1620229252012">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="60" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1620213142403" />
-    <state x="429" y="240" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1620229068442">
+    <state x="233" y="60" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1620229252012" />
+    <state x="429" y="240" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1620229576533">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="429" y="240" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1620229068442" />
+    <state x="429" y="240" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1620229576533" />
   </component>
 </project>
